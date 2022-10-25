@@ -33,3 +33,5 @@ If you want to talk about my research interests or my hobbies, feel free to cont
 |     4| Numpy, Scipy, Matplotlib, Statsmodel, SymPy, Seaborn, etc.      |
   
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr)](https://github.com/anuraghazra/github-readme-stats)
