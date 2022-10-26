@@ -1,6 +1,6 @@
 ### Hi there 🙋‍♂️
 
-![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr&show_icons=true&theme=radical)
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr&show_icons=true&theme=radical&count_private=true)
 
 
 My name is Thomas Meunier, I am a French Engineer :computer: and I graduated from Ecole Nationale des Ponts et Chaussées in 2021, and also hold a Master of Research in Computer Sciences and Applied Mathematics. 
