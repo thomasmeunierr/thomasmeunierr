@@ -34,4 +34,6 @@ If you want to talk about my research interests or my hobbies, feel free to cont
   
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr)](https://github.com/anuraghazra/github-readme-stats)
+![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thomasmeunierr&theme=dark_lover&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomasmeunierr&theme=dark)](https://git.io/streak-stats)
