@@ -3,10 +3,10 @@
 ![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmeunierr&show_icons=true&theme=radical&count_private=true)
 
 
-My name is Thomas Meunier, I am a French Engineer :computer: and I graduated from Ecole Nationale des Ponts et Chaussées in 2021, and also hold a Master of Research in Computer Sciences and Applied Mathematics. 
-My research interests 👀 mainly focused on Deep Learning and its application in the medical domain, and on Reinforcement Learning especially in the theory behind that.
+My name is Thomas Meunier, I am a French Engineer :computer: and I graduated from Ecole Nationale des Ponts et Chaussées in 2021, and also hold a Master of Research in Computer Sciences and Applied Financial Mathematics. 
+My research interests 👀 mainly focused on Deep Learning and its application in the medical domain, and on Reinforcement Learning especially in the theory behind that (due to my studies in stochastic calculus and theory of probability).
 
-I have a strong background in applied mathematics, probability theory and partial differential equations.
+I have a strong background in applied mathematics, probability theory, stochastic calculus and partial differential equations.
 
 I am looking to collaborate on Machine Learning projects, contribute to open source projects in any way. I think it is one of the most import aspect in research.
 
